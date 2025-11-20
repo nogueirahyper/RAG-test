@@ -1,1 +1,1 @@
-# RAG-test
+# Projeto RAG completo por: João Vítor Nogueira
